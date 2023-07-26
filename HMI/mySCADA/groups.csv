@@ -1,0 +1,11 @@
+GroupNo;ReportingMaxSeverity;Reporting;Name
+0;0;NO;No Access
+1;0;NO;Visitor
+2;0;NO;Junior Operator
+3;0;NO;Senior Oparator
+4;0;NO;Supervisor
+5;0;NO;Manager
+6;0;NO;IT Specialist
+7;0;NO;Instrument Technician
+8;0;NO;Engineer
+9;0;NO;Administrator

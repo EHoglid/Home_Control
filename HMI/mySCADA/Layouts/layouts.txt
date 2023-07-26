@@ -1,0 +1,1 @@
+{"list":[{"name":"Home","desc":"","bottom":{"fileName":"Menu","enabled":true,"scaled":true,"sliding":false,"background":false,"spacing":2.0,"sizeOfTab":5,"colorOfTab":"default","opacityOfTab":0.4},"overlay":[{"fileName":"Overlay","enabled":true,"scaled":true,"sliding":false,"background":false,"spacing":0.0,"sizeOfTab":5,"colorOfTab":"default","opacityOfTab":0.4}]}]}

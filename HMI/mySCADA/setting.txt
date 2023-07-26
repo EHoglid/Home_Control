@@ -1,0 +1,61 @@
+fullScreenLandscape YES
+showActiveAlarms NO
+sortActiveSeverity NO
+showToSeverity 0
+sortFilter NO
+textFilter 
+alarmRefreshTime 1000
+alarmRefresh NO
+connectionTimeout 1000
+hideStatusBar NO
+hideTopToolBar NO
+alarmsInIcon YES
+alarmsNotifyShake NO
+alarmsNotifySound NO
+statusBarBlack NO
+lockenabled YES
+settingsenabled YES
+remotecontrol YES
+lockInScreens NO
+lockinview NO
+hideStatusButton NO
+showDescAsTitle NO
+logUserActions NO
+startupScreen v;Home
+viewaccess -1
+writeaccess -1
+useractionaccess -1
+liveviewtar YES
+errorBox stroke:#ff0000;stroke-width:3.0;stroke-opacity:1.0;fill:#999999;fill-opacity:0.0;rx:0;ry:0
+projectID 521661
+alarmSound 
+alarmSoundRepeat 1
+alarmSoundSeverity 0
+alarmSoundVolume 1
+refreshCAS1 1000
+refreshCAS2 10000
+refreshCAS3 30000
+commIP 127.0.0.1
+maxSizeAlarms 50
+maxSizeUserAction 50
+olderThenAlarms 31536000
+olderThenUserAction 31536000
+casAlarmsConnection script
+dateTimeDefault m;0;m;0
+dateTimeOnlineAlarms m;0;m;0
+dateTimeAlarmHistory m;0;m;0
+dateTimeDatalogs m;0;m;0
+dateTimeUserActions m;0;m;0
+dateTimeTrends m;0;m;0
+serialParams 19200;No;1;8;Off;Off,19200;No;1;8;Off;Off,19200;No;1;8;Off;Off,19200;No;1;8;Off;Off,19200;No;1;8;Off;Off,19200;No;1;8;Off;Off
+layoutType light
+iconType 0
+casAlarmsViewAccess -1
+checkProjectSetting [{"no":1,"name":"Tag\u0027s Syntax","enable":true},{"no":2,"name":"Equations","enable":true},{"no":3,"name":"View","enable":true},{"no":6,"name":"View - Unused References","enable":false},{"no":5,"name":"View - Background Size","enable":false},{"no":7,"name":"View - Bad Image","enable":false},{"no":4,"name":"Data-log","enable":true},{"no":10,"name":"Data-logs, Alarms and User Action total size","enable":true},{"no":11,"name":"Tags Database","enable":true}]
+casAlarmTableWidth 
+syntaxScriptIgnored  was used before it was defined.;;;Empty block.;;;Unused ';;;Unexpected dangling ';;;Unexpected sync method: ';;; is evil.;;; literal notation ;;;Cannot read property "line" from undefined;;;Move 'var' declarations to the top of the function.
+newViewSize {"width":1920,"height":1080,"menuHeight":70,"isMenu":false,"isPortrait":false,"paneSizeTab":1,"paneDeviceTab":2,"basedRatio":3,"basedSize":54}
+debugDeviceAlias 127.0.0.1
+ProjectReadAccessGroups []
+ProjectWriteAccessGroups []
+UserActionsReadAccessGroups []

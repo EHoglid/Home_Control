@@ -1,0 +1,3 @@
+Type;Alias;IP;Slot;Path;Rack;Port;Network;Station;Module;IOModule;CPUTimer;OptWindow;Optimized;Toyopuc;SeparateWrites;SeparateWritesPort;User;Psw;Certificate;PrivateKey;SiemensType
+11;script;;0;;0;0;0;0;0;0;0;0;0;0-0-0-0-0-0-0-0-0-0;0;1026;;;;;
+6;X-Logic;192.168.0.178;1;;8888;1025;0;255;1023;0;64;50;0;0-0-0-0-0-0-0-0-0-0;0;1026;;;;;

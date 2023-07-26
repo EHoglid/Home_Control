@@ -1,0 +1,90 @@
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" id="prefix_id_Layer_1" enable-background="new 0 0 600 600" version="1.1" width="444.1000003814697" xml:space="preserve" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 444.1000003814697 84.16311645507812" inkscape:componentSize="0.0;0.0;1.0;1.0" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" height="84.16311645507812" xmlns="http://www.w3.org/2000/svg" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;b267660bce&quot;,&quot;MasterID&quot;:&quot; 65833483&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter tag&quot;,&quot;value&quot;:&quot;H:20@Arduino&quot;,&quot;valueSub&quot;:&quot;H:20&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Pointer color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#DB313A&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;min&quot;,&quot;name&quot;:&quot;Min&quot;,&quot;desc&quot;:&quot;Set vaule&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;max&quot;,&quot;name&quot;:&quot;Max&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;100&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;dp&quot;,&quot;name&quot;:&quot;Decimal places&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" x="0px" y="0px">
+<defs/>
+<rect x="0" width="444.1000003814697" id="pozadiNoSeL" height="84.16311645507812" y="0" style="fill:#ffffff;stoke:#ffffff;"/>
+<g inkscape:groupmode="layer" inkscape:layerlabel="Background" id="layer0">
+<g id="prefix_id_XMLID_281_">
+<path d="M522.5,313.5c0,5.2-4.6,9.4-10.3,9.4H125.8c-5.7,0-10.3-4.2-10.3-9.4   s4.6-9.4,10.3-9.4h386.4C517.9,304,522.5,308.3,522.5,313.5z" id="prefix_id_XMLID_217_" style="fill:#231F20;opacity:0.1;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<g id="prefix_id_XMLID_212_">
+<path id="prefix_id_XMLID_307_" d="M519,313.5L519,313.5c0,3.5-3.1,6.3-6.9,6.3H125.9c-3.8,0-6.9-2.8-6.9-6.3v0    c0-3.5,3.1-6.3,6.9-6.3h386.3C515.9,307.2,519,310,519,313.5z" style="fill:#A7A9AC;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+</g>
+<g id="prefix_id_XMLID_216_">
+<rect x="431.79999999999995" width="1.8" height="16.8" id="prefix_id_XMLID_246_" y="10.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="238.7" width="1.8" height="16.8" id="prefix_id_XMLID_245_" y="10.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="142.09999999999997" width="1.8" height="16.8" id="prefix_id_XMLID_244_" y="10.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="335.29999999999995" width="1.8" height="16.8" id="prefix_id_XMLID_243_" y="10.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="354.59999999999997" width="1.8" height="6.8" id="prefix_id_XMLID_242_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="373.9" width="1.8" height="6.8" id="prefix_id_XMLID_240_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="393.2" width="1.8" height="6.8" id="prefix_id_XMLID_239_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="412.49999999999994" width="1.8" height="6.8" id="prefix_id_XMLID_237_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="257.99999999999994" width="1.8" height="6.8" id="prefix_id_XMLID_236_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="277.29999999999995" width="1.8" height="6.8" id="prefix_id_XMLID_235_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="296.59999999999997" width="1.8" height="6.8" id="prefix_id_XMLID_234_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="315.9" width="1.8" height="6.8" id="prefix_id_XMLID_231_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="64.89999999999998" width="1.8" height="6.8" id="prefix_id_XMLID_230_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="84.19999999999996" width="1.8" height="6.8" id="prefix_id_XMLID_228_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="103.49999999999997" width="1.8" height="6.8" id="prefix_id_XMLID_227_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="122.79999999999995" width="1.8" height="6.8" id="prefix_id_XMLID_226_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="161.39999999999998" width="1.8" height="6.8" id="prefix_id_XMLID_225_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="180.7" width="1.8" height="6.8" id="prefix_id_XMLID_224_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="200.09999999999997" width="1.8" height="6.8" id="prefix_id_XMLID_220_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="219.39999999999998" width="1.8" height="6.8" id="prefix_id_XMLID_219_" y="20.963104248046875" style="fill:#D1D3D4;"/>
+<rect x="45.49999999999997" width="1.8" height="16.8" id="prefix_id_XMLID_218_" y="10.963104248046875" style="fill:#D1D3D4;"/>
+<text inkscape:textik="(min).toFixed(dp)" id="prefix_id_XMLID_343_" style="font-weight:bold;text-anchor:middle;font-size:9px;font-family:&apos;Montserrat&apos;;font-style:normal;fill:#58595B;" transform="matrix(1 0 0 1 46.418847971949084 6.363006591796875)">
+0</text>
+<text inkscape:textik="(min+((max-min)*1/2)).toFixed(dp)" id="prefix_id_XMLID_285_" style="font-weight:bold;font-style:normal;text-anchor:middle;font-size:9px;font-family:&apos;Montserrat&apos;;fill:#58595B;" transform="matrix(1 0 0 1 239.53170776367188 6.363006591796875)">
+50</text>
+<text inkscape:textik="(min+((max-min)*1/4)).toFixed(dp)" id="prefix_id_XMLID_287_" style="font-weight:bold;text-anchor:middle;font-size:9px;font-family:&apos;Montserrat&apos;;font-style:normal;fill:#58595B;" transform="matrix(1 0 0 1 143.00150114914467 6.363006591796875)">
+25</text>
+<text inkscape:textik="(min+((max-min)*3/4)).toFixed(dp)" id="prefix_id_XMLID_288_" style="font-weight:bold;font-style:normal;text-anchor:middle;font-size:9px;font-family:&apos;Montserrat&apos;;fill:#58595B;" transform="matrix(1 0 0 1 336.1014099121094 6.363006591796875)">
+75</text>
+<text inkscape:textik="(max).toFixed(dp)" id="prefix_id_XMLID_290_" style="font-weight:bold;font-style:normal;text-anchor:middle;font-size:9px;font-family:&apos;Montserrat&apos;;fill:#58595B;" transform="matrix(1 0 0 1 432.6711120605469 6.363006591796875)">
+100</text>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;tag&quot;:&quot;H:20@Arduino&quot;,&quot;alias&quot;:&quot;H:20&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;,&quot;length&quot;:&quot;4.159482279870001&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;100&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;prefix_id_Layer_1&quot;}" id="prefix_id_XMLID_247_" inkscape:lblTemplate="{&quot;attr&quot;:&quot;slider&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;,&quot;length&quot;:&quot;4.159482279870001&quot;,&quot;min&quot;:&quot;min&quot;,&quot;max&quot;:&quot;max&quot;}">
+<path inkscape:vypln="color,100" id="prefix_id_XMLID_301_" d="M82.4,284.7h86.8c0.8,0,1.5,0.3,2.1,0.8c0.6,0.6,0.9,1.3,0.9,2.2v51.4    c0,0.8-0.4,1.6-0.9,2.2c-0.5,0.5-1.3,0.8-2.1,0.8H82.4c-0.8,0-1.4-0.3-2-0.7c-0.6-0.6-1-1.4-1-2.3v-51.4c0-0.9,0.4-1.7,1-2.3    C81,285,81.7,284.7,82.4,284.7z" style="fill:#DB313A;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<path d="M171.3,285.6c0.6,0.6,0.9,1.3,0.9,2.2v51.4    c0,0.8-0.4,1.6-0.9,2.2c-0.7-0.7-6.8-7.1-10.6-7.2v-41.4C164.5,292.7,170.7,286.3,171.3,285.6z" id="prefix_id_XMLID_249_" style="fill:url(#prefix_id_XMLID_5_);fill-opacity:0.25;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2639" xmlns:xlink="http://www.w3.org/1999/xlink" x2="1101.2639" y1="-400.4359" gradientUnits="userSpaceOnUse" y2="-433.6026" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_XMLID_2_" xlink:show="other">
+<stop style="stop-color:#000000;stop-opacity:0.2" offset="0"/>
+<stop style="stop-color:#000000;stop-opacity:0.2717" offset="8.962709e-02"/>
+<stop style="stop-color:#000000" offset="1"/>
+</linearGradient>
+<path d="M91.1,292.7c0,5.8,0,20.7,0,20.7s0,15,0,20.7    s33.2,5.9,33.2,5.9v-26.6v-26.6C124.3,286.8,91.1,287,91.1,292.7z" id="prefix_id_XMLID_298_" style="fill:url(#prefix_id_XMLID_2_);fill-opacity:0.25;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<g id="prefix_id_XMLID_295_">
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2639" xmlns:xlink="http://www.w3.org/1999/xlink" x2="1101.2639" y1="-397.1027" gradientUnits="userSpaceOnUse" y2="-363.936" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_XMLID_3_" xlink:show="other">
+<stop style="stop-color:#FFFFFF;stop-opacity:0.2" offset="0"/>
+<stop style="stop-color:#FFFFFF" offset="1"/>
+</linearGradient>
+<path d="M160.8,334.2c0-5.8,0-20.7,0-20.7s0-15,0-20.7s-33.2-5.9-33.2-5.9     v26.6v26.6C127.6,340.1,160.8,339.9,160.8,334.2z" id="prefix_id_XMLID_321_" style="fill:url(#prefix_id_XMLID_3_);opacity:0.3;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+</g>
+<rect x="43.79999999999997" width="3.3" height="53.2" id="prefix_id_XMLID_292_" y="27.763104248046886" style="fill-opacity:0.1;"/>
+<rect x="45.89999999999996" width="3.3" y="27.763104248046886" height="53.2" id="prefix_id_XMLID_289_" style="fill-opacity:0.1;fill:#FFFFFF;"/>
+<path d="M124.3,340.1h1.7v2.1H82.4c-0.8,0-1.4-0.3-2-0.7v0    c0,0,6.6-7.2,10.6-7.2C91.1,339.9,124.3,340.1,124.3,340.1z" id="prefix_id_XMLID_286_" style="fill:#231F20;fill-opacity:0.12;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<path d="M124.3,286.8h1.7v-2.1H82.4c-0.8,0-1.4,0.3-2,0.7v0    c0,0,6.6,7.2,10.6,7.2C91.1,287,124.3,286.8,124.3,286.8z" id="prefix_id_XMLID_283_" style="fill:#231F20;fill-opacity:0.12;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<path d="M160.8,334.2c3.8,0,9.9,6.5,10.6,7.2c-0.5,0.5-1.3,0.8-2.1,0.8h-43.3    v-2.1h1.7C127.6,340.1,160.8,339.9,160.8,334.2z" id="prefix_id_XMLID_280_" style="fill:#231F20;fill-opacity:0.2;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<path d="M160.8,292.7c3.8,0,9.9-6.5,10.6-7.2c-0.5-0.5-1.3-0.8-2.1-0.8h-43.3    v2.1h1.7C127.6,286.8,160.8,287,160.8,292.7z" id="prefix_id_XMLID_260_" style="fill:#231F20;fill-opacity:0.2;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+<g id="prefix_id_XMLID_252_">
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2612" xmlns:xlink="http://www.w3.org/1999/xlink" x2="1101.2612" y1="-445.2693" gradientUnits="userSpaceOnUse" y2="-433.5993" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_XMLID_4_" xlink:show="other">
+<stop style="stop-color:#FFFFFF;stop-opacity:0.2" offset="0"/>
+<stop style="stop-color:#FFFFFF" offset="1"/>
+</linearGradient>
+<path d="M80.5,285.5L80.5,285.5c0,0,6.6,7.2,10.6,7.3v41.4     c-4,0-10.6,7.2-10.6,7.2v0c-0.6-0.6-1-1.4-1-2.3v-51.4C79.4,286.8,79.8,286,80.5,285.5z" id="prefix_id_XMLID_351_" style="fill:url(#prefix_id_XMLID_4_);opacity:0.2;" transform="matrix(1 0 0 1 -79.39999961853027 -259.0368957519531)"/>
+</g>
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2612" xmlns:xlink="http://www.w3.org/1999/xlink" x2="1101.2612" y1="-363.9393" gradientUnits="userSpaceOnUse" y2="-352.4393" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_XMLID_5_" xlink:show="other">
+<stop style="stop-color:#000000;stop-opacity:0.2" offset="0"/>
+<stop style="stop-color:#000000" offset="1"/>
+</linearGradient>
+<rect x="44.89999999999996" width="3.3" height="53.2" id="prefix_id_XMLID_248_" y="27.763104248046886" style="fill:#F2F2F2;"/>
+</g>
+</g>
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2639" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="-400.4359" x2="1101.2639" y2="-433.6026" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_linearGradient0001" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2" id="prefix_id_stop0001"/>
+<stop offset="8.962709e-02" style="stop-color:#000000;stop-opacity:0.2717" id="prefix_id_stop0002"/>
+<stop offset="1" style="stop-color:#000000" id="prefix_id_stop0003"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(4.489659e-11 -1 1 4.489659e-11 524.7148 1414.7148)" x1="1101.2612" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="-363.9393" x2="1101.2612" y2="-352.4393" xlink:type="simple" xlink:actuate="onLoad" id="prefix_id_linearGradient0004" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2" id="prefix_id_stop0008"/>
+<stop offset="1" style="stop-color:#000000" id="prefix_id_stop0009"/>
+</linearGradient>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea"/>
+</svg>

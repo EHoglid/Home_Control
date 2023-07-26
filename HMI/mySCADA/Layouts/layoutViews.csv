@@ -1,0 +1,3 @@
+Refresh;Name;Description;Connection alias;zoomEnabled;View Access;Write Access
+250;Menu;Menu;script;Yes;-1;-1
+1000;Overlay;;script;Yes;-1;-1

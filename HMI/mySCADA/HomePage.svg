@@ -1,0 +1,14 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="1280" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 1280.0 680.0" height="680" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&apos;Ubuntu&apos;;src:url(&apos;Fonts/Ubuntu-R.ttf&apos;);}@font-face{font-family:&apos;Tahoma#B&apos;;src:url(&apos;Fonts/tahomabd.ttf&apos;);}@font-face{font-family:&apos;Tahoma&apos;;src:url(&apos;Fonts/tahoma.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#I&apos;;src:url(&apos;Fonts/Ubuntu-RI.ttf&apos;);}</style>
+<defs/>
+<rect x="0" width="1280" y="0" height="720" id="pozadiNoSeL" style="fill:#ffffff;stoke:#ffffff;"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */}</style>
+<g inkscape:groupmode="layer" inkscape:layerlabel="Background" id="layer0">
+<image x="125.48599417576327" y="1.6401648820206405" transform="matrix(1.36536465143878 -0.0026792791748306414 0.002312069075088763 1.582216048619526 -35.146471292250766 9.726470503033864)" width="741" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data/every/images/domotique_logo.jpg" xlink:type="simple" xlink:actuate="onLoad" id="image0001" height="413" preserveAspectRatio="none meet" xlink:show="embed"/>
+<text x="287.1428571428571" y="132.85714285714283" id="text0001" style="fill:#000000;stroke:none; font-family:&apos;Tahoma&apos;; font-size:12pt; font-style:normal; font-weight:normal;" transform="matrix(1 0 0 1 961.6666870117188 524.2501017252605)" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;login@script&quot;,&quot;alias&quot;:&quot;login&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}">
+#</text>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea"/>
+</svg>

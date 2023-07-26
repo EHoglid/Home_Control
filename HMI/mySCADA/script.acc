@@ -1,0 +1,9 @@
+ftp_active 0
+ftp_user 
+ftp_psw 
+http_active 1
+http_user 
+http_psw 
+https_active 1
+https_user 
+https_psw 
